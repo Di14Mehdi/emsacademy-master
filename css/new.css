@@ -199,7 +199,7 @@ body {
 .section-basketball{
   height: 300px;
   width: auto;
-  background-image: url(./img/basketballcourt-horizontal.jpg);
+  background-image: url(../img/basketballcourt-horizontal.jpg);
   background-attachment: fixed;
   background-size:cover;
   clear: both;
@@ -207,7 +207,7 @@ body {
 .section-soccer{
   height: 300px;
   width: auto;
-  background-image: url(./img/soccerfield-horizontal.jpg);
+  background-image: url(../img/soccerfield-horizontal.jpg);
   background-attachment: fixed;
   background-size:cover;
   clear: both;
@@ -216,7 +216,7 @@ body {
 .section-books{
   height: 300px;
   width: auto;
-  background-image: url(./img/main.jpg);
+  background-image: url(../img/main.jpg);
   background-attachment: fixed;
   background-size:cover;
   clear: both;
