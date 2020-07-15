@@ -136,7 +136,7 @@ body {
   float: left;
   width: 33.3%;
   padding: 10px;
-  font-size: 20px;
+  font-size: 34px;
   padding: 5px 5%;
 }
 
@@ -157,7 +157,12 @@ body {
   .column {
     width: 100%;
     padding: 20px 15%;
-
+    font-size: 26px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .column {
+    font-size: 29px;
   }
 }
 
